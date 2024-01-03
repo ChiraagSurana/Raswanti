@@ -1,4 +1,4 @@
 # Raswanti
 This is my first Git Repository
 <br>
-author  - chirag surana
+author  - chirag surana(raswanti)
